@@ -1,0 +1,2 @@
+NOT ( p OR ( q AND p ) ) 
+( q IMPLIES p )
