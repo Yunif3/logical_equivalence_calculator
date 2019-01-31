@@ -120,6 +120,7 @@ public:
         Node * node_ptr;
     };
 
+<<<<<<< HEAD
     static Iterator begin () {
         return Iterator(first);
     }
@@ -129,6 +130,17 @@ public:
     }
 
     static Iterator end () {
+=======
+    Iterator begin () {
+        return Iterator(first);
+    }
+    
+    Iterator back () {
+        return Iterator(last);
+    }
+
+    Iterator end () {
+>>>>>>> 739fbb190b3ce84a373e3bd1c3e75d7fc3c434f4
         return Iterator();
     }
 
