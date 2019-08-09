@@ -1,2 +1,1 @@
-NOT ( p OR ( q AND p ) ) 
-( q IMPLIES p )
+( NOT ( ( p ) OR ( ( q ) AND ( p ) ) ) ) EQUALS ( q ) IFF ( p )

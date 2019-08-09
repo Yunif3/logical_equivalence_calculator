@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "cassert": "cpp",
-        "string": "cpp"
-    },
-    "C_Cpp.intelliSenseEngineFallback": "Enabled",
-    "C_Cpp.errorSquiggles": "Disabled"
-}
